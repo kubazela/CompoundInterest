@@ -1,0 +1,10 @@
+C:\Users\zelen\source\repos\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+C:\Users\zelen\source\repos\CompoundInterest\bin\Debug\CompoundInterest.exe
+C:\Users\zelen\source\repos\CompoundInterest\bin\Debug\CompoundInterest.pdb
+C:\Users\zelen\source\repos\CompoundInterest\obj\Debug\CompoundInterest.csprojAssemblyReference.cache
+C:\Users\zelen\source\repos\CompoundInterest\obj\Debug\CompoundInterest.Form1.resources
+C:\Users\zelen\source\repos\CompoundInterest\obj\Debug\CompoundInterest.Properties.Resources.resources
+C:\Users\zelen\source\repos\CompoundInterest\obj\Debug\CompoundInterest.csproj.GenerateResource.cache
+C:\Users\zelen\source\repos\CompoundInterest\obj\Debug\CompoundInterest.csproj.CoreCompileInputs.cache
+C:\Users\zelen\source\repos\CompoundInterest\obj\Debug\CompoundInterest.exe
+C:\Users\zelen\source\repos\CompoundInterest\obj\Debug\CompoundInterest.pdb
